@@ -4,7 +4,7 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1:
-Import the numpy module to use the built-in functions for calculation
+Import the math module to use the built-in functions for calculation
 ### Step 2: 
 Mention the coordinates as given
 ### Step 3: 
