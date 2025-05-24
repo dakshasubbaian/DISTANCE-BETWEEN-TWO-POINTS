@@ -17,7 +17,7 @@ End the program
 ```
 #Program to find the distance between two points.
 #Developed by: Daksha Subbaian
-#RegisterNumber:23003584
+#RegisterNumber:212223230036
 import math
 x1,x2=10,4
 y1,y2=6,2
@@ -28,7 +28,8 @@ print(round(d,2))
 
 
 ### OUTPUT:
-![output](/output1c.png)
+![image](https://github.com/user-attachments/assets/e8c3b2e3-75f9-40a4-92b2-e5f175dd6ea7)
+
 
 
 ### RESULT:
