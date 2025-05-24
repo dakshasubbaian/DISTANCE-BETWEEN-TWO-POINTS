@@ -28,7 +28,8 @@ print(round(d,2))
 
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/e8c3b2e3-75f9-40a4-92b2-e5f175dd6ea7)
+![image](https://github.com/user-attachments/assets/ace47105-73af-411b-8923-3586942c0e37)
+
 
 
 
